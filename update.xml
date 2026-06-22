@@ -5,7 +5,7 @@
 		<name>System - JS Optimize</name>
 		<description>System - JS Optimize Plugin. Minifies and defers JavaScript loading for Joomla 4/5/6 sites. Improves Core Web Vitals and PageSpeed Insights scores. Lightweight, no third-party dependencies. Compatible with Gantry, Cassiopeia and Helix Ultimate templates.
 
-SHA-Bundle: 553246736447566b583138424f344c3358376f674c4f425a4b753964646d3275556353435854395052615457626d6150764e582f5679625949745854687a445a6c42702b67516677567379414c6934326e615338676947676c79444e52632f31684a50366534516352362b6e7553794f73565365527359306f42533268796262</description>
+SHA-Bundle: 553246736447566b583139497647684450574431504a623872327a304b4f5851436737493735676f586c72593444794a3674715157476b71547a76685742627662685561734d6e4336466663766b6f347a69537358413d3d</description>
 		<element>plg_system_jsoptimize</element>
 		<type>plugin</type>
 		<folder>system</folder>
